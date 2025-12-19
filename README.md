@@ -37,5 +37,7 @@ Dataset utilizado: https://ieee-dataport.org/open-access/complex-testing-procedu
    Abra e execute as células do arquivo `project.ipynb`. Os resultados (gráficos, métricas e relatórios) serão salvos nas pastas:
    - `images/`
    - `reports/`
-   - OBS: Se o diretório `/dataset` estiver vazio, o script gerará dados simulados.
+ 
+# OBS: Se o diretório `/dataset` estiver vazio, o script gerará dados simulados.
+
 
