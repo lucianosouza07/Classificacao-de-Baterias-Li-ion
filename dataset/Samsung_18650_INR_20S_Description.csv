@@ -1,0 +1,48 @@
+﻿Manufacturer's data,Unnamed: 1,Unnamed: 2,Unnamed: 3
+,,,
+Manufacturer,Samsung SDI,,
+Model / Type, INR18650-20S,,
+Capacity,2000 mAh,,
+Nominal Voltage,"3,60 V",,
+Voltage max,"4,20 V",,
+Voltage min,"2,5 V",,
+Chemical Abbreviation,-,,
+Cathode,-,,
+Anode,-,,
+Measuring information,,,
+,,,
+Abbreviation,Description,Sampling,Modification
+"CH_0,1C",Charging C/10,1s,Averaging window 5s
+"DCH_0,1C",Discharging C/10,1s,Averaging window 5s
+CH_1C,Charging 1C,100ms,Averaging 100 data
+DCH_1C,Discharging 1C,1s,Averaging window 5s
+WLTP_25°C,"The wltp test cycle at the specified temperature.   At the end of the WLTP cycle (A-process), remove the remaining capacity by 1C (B-process)",10ms/10ms,Averaging 100 data
+WLTP_ 60°C,,10ms/10ms,"Averaging 100 data/
+Averaging window 5s"
+WLTP_0°C,,10ms/10ms,"Averaging 100 data/
+Averaging window 5s"
+WLTP_-15 °C,,10ms/10ms,Averaging 100 data
+CH_Trans,Transient test during charging.,100ms,none
+DCH_Trans,Transient test during discharging.,100ms,none
+Measurement setup ,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+Power supply: ,,Hameg HMP 4030,
+Load: ,,Elektro- Automatik EL3160-60A,
+Data logger: ,,NI 9201,
+Temperature sensors: ,,LMT85LPG,
+Thermal shock chamber: ,,ESPEC LU-113,

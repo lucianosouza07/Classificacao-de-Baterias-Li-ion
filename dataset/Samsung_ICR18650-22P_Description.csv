@@ -1,0 +1,49 @@
+﻿Manufacturer's data,Unnamed: 1,Unnamed: 2,Unnamed: 3
+,,,
+Manufacturer,Samsung SDI,,
+Model / Type,ICR18650-22P,,
+Capacity,2200mAh,,
+Nominal Voltage,"3,60 V",,
+Voltage max,"4,20 V",,
+Voltage min,"2,75 V",,
+Chemical Abbreviation,NMC,,
+Cathode,LiNiMnCoO2,,
+Anode,carbon,,
+Measuring information,,,
+,,,
+Abbreviation,Description,Sampling,Modification
+"CH_0,1C",Charging C/10 ,1s,Averaging window 5s
+"DCH_0,1C",Discharging C/10,1s,Averaging window 5s
+CH_1C,Charging 1C,1s,Averaging window 5s
+DCH_1C,Discharging 1C,1s,Averaging window 5s
+WLTP_25°C,"The wltp test cycle at the specified temperature.   At the end of the WLTP cycle (A-process), remove the remaining capacity by 1C (B-process)",10ms/1s,"Averaging 100 data/
+Averaging window 5s"
+WLTP_ 60°C,,10ms/1s,"Averaging 100 data/
+Averaging window 5s"
+WLTP_0°C,,10ms/1s,"Averaging 100 data/
+Averaging window 5s"
+WLTP_-15 °C,,10ms/1s,Averaging 100 data
+CH_Trans,Transient test during charging.,1s,none
+DCH_Trans,Transient test during discharging.,1s,none
+Measurement setup ,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+Power supply: ,,Hameg HMP 4030,
+Load: ,,Elektro- Automatik EL3160-60A,
+Data logger: ,,NI 9201,
+Temperature sensors: ,,LMT85LPG,
+Thermal shock chamber: ,,ESPEC LU-113,
