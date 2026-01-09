@@ -1,5 +1,8 @@
 # BACHARELADO EM ENGENHARIA DE SOFTWARE - UNEB - CAMPUS II - IA E ML
 
+# Orientador
+Dr° Marcos Batista Figueredo 
+
 # Integrantes 
 - Luciano de Souza Silva
 - Simão Pedro da Silva dos Santos 
@@ -39,6 +42,7 @@ Dataset utilizado: https://ieee-dataport.org/open-access/complex-testing-procedu
    - `reports/`
  
 ### OBS: Se o diretório `/dataset` estiver vazio, o script gerará dados simulados.
+
 
 
 
